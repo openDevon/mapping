@@ -1,2 +1,2 @@
-# mapping
-Mapping data in GeoPackage format for the Devon, Torbay and Plymouth areas
+# Mapping
+A selection of different geographies covering the Devon, Torbay and Plymouth local authority areas in a GeoPackage format.
